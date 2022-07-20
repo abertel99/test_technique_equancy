@@ -8,8 +8,8 @@
 ![technologies](/Graphs/technologies.png)
 
 ### 7. Aide à l'interprétation des résulats
-![Diplome](/Graphs/technologies.png)
+![Diplome](/Graphs/Diplome.png)
 
-![Métier](/Graphs/technologies.png)
+![Métier](/Graphs/Metier.png)
 
-![R](/Graphs/technologies.png)
+![R](/Graphs/R.png)
