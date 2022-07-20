@@ -5,4 +5,4 @@
 
 
 ### 6. Nombre d'occurences des différentes technologies
-!(/Graphs/technologies.png)
+![technologies](/Graphs/technologies.png)
