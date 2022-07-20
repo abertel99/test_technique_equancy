@@ -6,3 +6,10 @@
 
 ### 6. Nombre d'occurences des différentes technologies
 ![technologies](/Graphs/technologies.png)
+
+### 7. Aide à l'interprétation des résulats
+![Diplome](/Graphs/technologies.png)
+
+![Métier](/Graphs/technologies.png)
+
+![R](/Graphs/technologies.png)
